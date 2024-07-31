@@ -38,7 +38,7 @@ Your users should be able to:
 ### Links
 
 - [Source code](https://github.com/Otaviano-Manoel/tip_calculator_app)
-- [Live website](https://otaviano-manoel.github.io/tip_calculator_app/)
+- [Live website](https://fm-tip-calculator-app.onrender.com)
 
 ## My Process
 
